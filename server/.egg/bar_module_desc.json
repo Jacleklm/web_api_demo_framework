@@ -1,0 +1,1 @@
+{"name": "bar","unitPath": "/home/narwal/storage/github/web_api_demo_framework/server/app/module/bar","clazzList": [{"name": "HomeController","filePath": "controller/home.ts"},{"name": "UserController","filePath": "controller/user.ts"}],"multiInstanceClazzList": [],"protos": []}
